@@ -1,5 +1,5 @@
 // Computing modulation in logn time.
-// Written by: Yinglue Chen
+// Written by: Yinglue Chen.
 
 #include <iostream>
 
